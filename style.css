@@ -108,7 +108,7 @@
 }
 
 .my-plane {
-    background-image: url(/images/watch.png);
+    background-image: url(./images/watch.png);
 
     background-repeat: no-repeat;
    margin-left: 350px;
@@ -118,7 +118,7 @@
 }
 
 .my-plane1 {
-    background-image: url(/images/gradient2.png);
+    background-image: url(./images/gradient2.png);
     background-repeat: no-repeat;
     
 

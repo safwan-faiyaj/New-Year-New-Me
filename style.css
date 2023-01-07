@@ -1,107 +1,156 @@
-
-.banner
-{
+.banner {
     display: flex;
     align-items: center;
 
-background-image: url(./images/banner/banner2.png);
-background-repeat: no-repeat;
-background-size: 100%;
+    background-image: url(./images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 
 
 
 
 }
 
-.banner{
+.banner {
     margin: -8px;
     padding-bottom: 600px;
 }
 
-.bannertext1 
-{
-   
-   font-size: 90px;
-   margin-left: 1200px;
-   margin-top: 250px;
-   font-style: italic;
+.bannertext1 {
+
+    font-size: 90px;
+    margin-left: 1200px;
+    margin-top: 250px;
+    font-style: italic;
 
 }
-.bannertext2{
+
+.bannertext2 {
     margin-left: 1200px;
 
 }
-.button{
-    margin-left:1550px ;
+
+.button {
+    margin-left: 1550px;
     margin-top: 55px;
-     padding: 25px 60px;
-     background-color: orangered;
-     color: white;
-     border: 0ch;
-     font-size: 30px;
-     border-radius: 10px;
+    padding: 25px 60px;
+    background-color: orangered;
+    color: white;
+    border: 0ch;
+    font-size: 30px;
+    border-radius: 10px;
 }
 
-.body{
+.body {
     display: flex;
     margin-top: -250px;
     margin-left: 350px;
-  
+
 }
-.bodytext{
+
+.bodytext {
     margin-top: 250px;
     margin-left: 150px;
 
 }
-.bodytext1{
+
+.bodytext1 {
     font-size: 60px;
 }
-.text2{
+
+.text2 {
     margin-left: 100px;
     margin-top: 300px;
 }
 
 
 
-.end-body
-{
+.end-body {
 
-  text-align: center;  
-  font-size: 30px;
+    text-align: center;
+    font-size: 30px;
 }
-.end-images{
+
+.end-images {
     display: flex;
 }
-.icons{
+
+.icons {
     display: flex;
     text-align: center;
-    margin: 5px;
+    margin-right: 500px;
 }
 
-.img1{
+.img1 {
     margin-left: 300px;
 }
-.img2{
+
+.img2 {
     margin-left: 300px;
     margin-right: 300px;
 }
-.img3{
+
+.img3 {
     margin-right: 300px;
 }
 
-.icon-text{
+.icon-text {
     font-size: 26px;
-    font-weight:bold;
+    font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
-.icon-text-2{
+
+.icon-text-2 {
     text-align: center;
     font-size: 20px;
     font-weight: 700;
 }
 
-.footer{
+.my-plane {
+    background-image: url(/images/watch.png);
+
+    background-repeat: no-repeat;
+   margin-left: 350px;
+   
+
+
+}
+
+.my-plane1 {
+    background-image: url(/images/gradient2.png);
+    background-repeat: no-repeat;
+    
+
+
+}
+.my-plane-text{
+    height: 500px;
+}
+
+.my-plane-text1{
+    padding-top: 70px;
+    padding-left: 45px;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.my-plane-button{
+    margin-left: 40px;
+    background-color: white;
+    border-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 30px ;
+    height: 40px
+    margin-top: 25px;
+    color: orangered;
+    border-radius: 15px;    
+}
+
+
+.footer {
     background-color: black;
     color: white;
     display: flex;
@@ -110,33 +159,37 @@ background-size: 100%;
 
 }
 
-.footer-display{
+.footer-display {
     display: flex;
 }
 
 
 
 
-.footer-left{
+.footer-left {
     margin-left: 30px;
     margin-right: 850px;
 }
 
 
 
-.footer-right{
+.footer-right {
     margin-right: 40px;
 }
 
-.button1{
+.button1 {
     background-color: white;
+    border-color: white;
+    font-size: 20px;
+    font-weight: bold;
     padding: 20px 40px;
     margin-top: 25px;
     color: orangered;
     border-radius: 15px;
 
 }
-input{
+
+input {
     padding: 25px 60px;
     background-color: black;
     border-radius: 8px;
@@ -146,6 +199,4 @@ input{
 
 }
 
-placeholder{
-
-}
+placeholder {}
